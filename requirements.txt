@@ -1,0 +1,5 @@
+streamlit==1.47.0
+ctransformers==0.2.27
+torch==2.2.2
+numpy<2
+accelerate
